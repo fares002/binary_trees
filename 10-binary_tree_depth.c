@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_depth: depth
+ * binary_tree_depth-depth
  * @tree: pointer
  * Return: pointer
  */
