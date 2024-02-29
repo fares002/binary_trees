@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_preorder: order
+ * binary_tree_preorder - order
  * @tree: pointer
  * @func: pointer
  * Return: 0
