@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_postorder: traverses
+ * binary_tree_postorder - traverses
  * @tree: pointer
  * @func: pointer
  * Return: pointer
