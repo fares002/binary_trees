@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_size - size of binary tree
+ * binary_tree_size -  size of binary tree
  * @tree: pointer
  *
  * Return: size
